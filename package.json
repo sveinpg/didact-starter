@@ -1,0 +1,21 @@
+{
+  "name": "didact-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "jsx-transform": "^2.4.1"
+  }
+}
